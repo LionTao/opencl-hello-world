@@ -50,6 +50,6 @@ task natives {
  * LWJGL
  */
 run { 
-	systemProperties = [ 'java.library.path' : './build/natives/osx' ]
+	systemProperties = [ 'java.library.path' : './build/natives/windows' ]
 	it.dependsOn natives
 }
