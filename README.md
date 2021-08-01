@@ -1,5 +1,5 @@
 # Hello OpenCL World
-Maintain by [Avatar Ng](http://www.minfaatong.tk), originally fork from Jeff Heaton's project repositories.
+Originally fork from Jeff Heaton's project repositories.
 
 ## Changes
 Updated to Gradle 4.7, Java 1.8, Lwjgl 2.9.3
@@ -18,6 +18,8 @@ To use the wrapper just use the "gradlew" command.
 ## Steps
 
 To run this application simply issue the command:
+
+change platform options at bottom of `build.gradle`
 
 `gradlew run`
 
